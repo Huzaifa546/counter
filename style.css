@@ -1,0 +1,26 @@
+.div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+   
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border: black 2px solid;
+}
+
+.value {
+    font-size: 50px;
+    margin: 20px;
+
+}
